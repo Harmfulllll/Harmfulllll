@@ -1,6 +1,6 @@
 # 💫 Harmfulllll
 Hi 👋, I'm Tanvir Hassan Joy<br>Software Engineer <br>Studied Computer Science<br>Currently looking for a job
-
+Email: tanvirjoy114@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-hassan-joy/) 
