@@ -1,5 +1,5 @@
 # 💫 Harmfulllll
-Hi 👋, I'm Tanvir Hassan Joy<br>Software Engineer <br>Computer Science Graduate
+Hi 👋, I'm Tanvir Hassan Joy<br>Software Engineer <br>
 Email: tanvirjoy114@gmail.com
 
 ## 🌐 Socials:
